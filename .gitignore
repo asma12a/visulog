@@ -1,0 +1,12 @@
+.history
+.vscode
+build.gradle.kts
+gradlew.bat
+settings.gradle.kts
+.gradle/
+analyzer/build/
+build/
+cli/build/
+config/build/
+gitrawdata/build/
+webgen/build/
